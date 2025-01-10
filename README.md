@@ -1,4 +1,4 @@
-## Olá eu sou André Narcizo!
+## Olá eu sou André Narcizo, sou Desenvolvedor Web!
 
 -  Estou atualmente trabalhando com Front-end.
 -  Faço Faculdade de Ciências da Computação.
