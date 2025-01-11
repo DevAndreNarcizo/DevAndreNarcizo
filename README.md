@@ -2,7 +2,7 @@
 
 -  Estou atualmente trabalhando com Front-end.
 -  Faço Faculdade de Ciências da Computação.
--  Estou atualmente aprendendo Python.
+-  Estou atualmente aprendendo Python, Node.js e React. 
 -  Pronomes: Ele/Dele.
 <div> 
   
