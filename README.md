@@ -15,6 +15,8 @@ Sou estudante de **Ciências da Computação** (7º período) e apaixonado por *
 ## 📌 Projetos em Destaque
 
 🔹 **[Fin-Assist](https://github.com/DevAndreNarcizo/Fin-Assist)** - Aplicativo de gestão financeira com IA integrada. 📊💰 
+🔹 **[TECNICAS-CRIPTOGRAFICAS-AES](https://github.com/DevAndreNarcizo/TECNICAS-CRIPTOGRAFICAS-AES)** - Sistema de criptografar e descriptografar usando as técnicas AES. 
+🔹 **[ANALISE-DE-PERFORMANCE-DE-ALGORITMOS](https://github.com/DevAndreNarcizo/ANALISE-DE-PERFORMANCE-DE-ALGORITMOS)** - Sistema para análise de performace de algoritmos de ordenação de dados.
 
 Veja mais repositórios [aqui](https://github.com/DevAndreNarcizo?tab=repositories)!
 
