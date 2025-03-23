@@ -1,6 +1,6 @@
-## Olá eu sou André Narcizo, sou Desenvolvedor Web!
+## Olá eu sou André Narcizo, sou Desenvolvedor Back-End!
 
--  Estou atualmente trabalhando com Front-end.
+-  Estou atualmente trabalhando com Back-end e Front-end.
 -  Faço Faculdade de Ciências da Computação.
 -  Estou atualmente estudando Python, Node.js e React. 
 -  Pronomes: Ele/Dele.
