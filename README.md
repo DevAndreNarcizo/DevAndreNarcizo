@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Entusiasta+de+Inteligência+Artificial;Em+busca+de+inovação+e+aprendizado)](https://git.io/typing-svg)
 
-Sou estudante de **Ciências da Computação** (7º período) e apaixonado por **desenvolvimento web, IA e sistemas distribuídos**. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias. Aqui no meu GitHub você encontra projetos que refletem minha jornada e experiências no mundo da programação. 💻🔥
+Sou estudante de **Ciências da Computação** (7º período) e apaixonado por **desenvolvimento front-end e back-end, IA e sistemas distribuídos**. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias. Aqui no meu GitHub você encontra projetos que refletem minha jornada e experiências no mundo da programação. 💻🔥
 
 ---
 
