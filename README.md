@@ -1,28 +1,40 @@
-## Olá eu sou André Narcizo, sou Desenvolvedor Back-End!
+### Olá, eu sou o André Luis Narcizo! 👋🚀
 
--  Estou atualmente trabalhando com Back-end e Front-end.
--  Faço Faculdade de Ciências da Computação.
--  Estou atualmente estudando Python, Node.js e React. 
--  Pronomes: Ele/Dele.
-<div> 
-  
-  <a href="https://instagram.com/andre_luis_narcizo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" target="_blank"></a>
-  <a href = "mailto:dev.andrenarcizo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-narcizo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Entusiasta+de+Inteligência+Artificial;Em+busca+de+inovação+e+aprendizado)](https://git.io/typing-svg)
+
+Sou estudante de **Ciências da Computação** (7º período) e apaixonado por **desenvolvimento web, IA e sistemas distribuídos**. Busco sempre aprimorar minhas habilidades e explorar novas tecnologias. Aqui no meu GitHub você encontra projetos que refletem minha jornada e experiências no mundo da programação. 💻🔥
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **[Fin-Assist](https://github.com/DevAndreNarcizo/Fin-Assist)** - Aplicativo de gestão financeira com IA integrada. 📊💰 
+
+Veja mais repositórios [aqui](https://github.com/DevAndreNarcizo?tab=repositories)!
+
+---
+
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAndreNarcizo&show_icons=true&theme=react&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevAndreNarcizo&theme=react"/>
 </div>
 
-## Tecnologias que eu uso no meu dia a dia!
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="35" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Rafa-HTML" height="35" width="100" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="35" width="100" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="35" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
+## 🌎 Onde me encontrar
 
-#
+📩 **E-mail:** devandrenarcizo@gmail.com  
+💼 **LinkedIn:** [André Luis Narcizo](https://www.linkedin.com/in/devandrenarcizo)  
+📷 **Instagram:** [@devandrenarcizo](https://www.instagram.com/devandrenarcizo/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+---
 
-
+_Sempre aprendendo e construindo algo novo! 🚀_
