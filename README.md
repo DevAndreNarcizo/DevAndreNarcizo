@@ -29,6 +29,7 @@ Veja mais repositórios [aqui](https://github.com/DevAndreNarcizo?tab=repositori
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAndreNarcizo&show_icons=true&theme=react&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevAndreNarcizo&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAndreNarcizo&layout=compact&theme=react"/>
 </div>
 
 ---
@@ -38,7 +39,8 @@ Veja mais repositórios [aqui](https://github.com/DevAndreNarcizo?tab=repositori
 📩 **E-mail:** devandrenarcizo@gmail.com  
 💼 **LinkedIn:** [André Luis Narcizo](https://www.linkedin.com/in/devandrenarcizo)  
 📷 **Instagram:** [@devandrenarcizo](https://www.instagram.com/devandrenarcizo/)  
+🐙 **GitHub Gist:** [Meus Snippets](https://gist.github.com/DevAndreNarcizo)  
 
 ---
 
-_Sempre aprendendo e construindo algo novo! 🚀_
+_"A tecnologia move o mundo, e eu estou aqui para fazer parte dessa revolução!" 🚀_
